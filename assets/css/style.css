@@ -7,7 +7,14 @@
 	
 	font-style: normal;
 	font-weight: normal;
-	font-weight: bold;
+}
+
+@font-face {
+	font-family: 'Lobster';
+	src: url('../fonts/Lobster-Regular.ttf');
+	
+	font-style: normal;
+	font-weight: normal;
 }
 
 /*!
